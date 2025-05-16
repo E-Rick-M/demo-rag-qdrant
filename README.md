@@ -1,4 +1,4 @@
-##RAG System with Local Qdrant and Mistral 7B
+## RAG System with Local Qdrant and Mistral 7B
 
 This repository contains a script for a Retrieval-Augmented Generation (RAG) system, leveraging a local Qdrant vector database and a Mistral 7B language model. This setup is designed for efficient passage retrieval and natural language response generation.
 
